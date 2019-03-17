@@ -23,3 +23,10 @@ C:\Users\SA111801\source\repos\CodingDojos_SaLo\LinkedList\bin\Debug\nunit.engin
 C:\Users\SA111801\source\repos\CodingDojos_SaLo\LinkedList\bin\Debug\LinkedList.exe.config
 C:\Users\SA111801\source\repos\CodingDojos_SaLo\LinkedList\bin\Debug\LinkedList.exe
 C:\Users\SA111801\source\repos\CodingDojos_SaLo\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\obj\Debug\LinkedList.csprojAssemblyReference.cache
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\obj\Debug\LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Sascha\source\repos\Coding_DoJos\LinkedList\obj\Debug\LinkedList.pdb

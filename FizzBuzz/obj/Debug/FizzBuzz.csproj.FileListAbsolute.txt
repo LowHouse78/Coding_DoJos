@@ -12,3 +12,9 @@ C:\Users\SA111801\source\repos\CodingDojos_SaLo\FizzBuzz\bin\Debug\nunit.framewo
 C:\Users\SA111801\source\repos\CodingDojos_SaLo\FizzBuzz\obj\Debug\FizzBuzz.csproj.CopyComplete
 C:\Users\SA111801\source\repos\CodingDojos_SaLo\FizzBuzz\obj\Debug\FizzBuzz.exe
 C:\Users\SA111801\source\repos\CodingDojos_SaLo\FizzBuzz\obj\Debug\FizzBuzz.pdb
+C:\Users\Sascha\source\repos\Coding_DoJos\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Users\Sascha\source\repos\Coding_DoJos\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Users\Sascha\source\repos\Coding_DoJos\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Users\Sascha\source\repos\Coding_DoJos\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Users\Sascha\source\repos\Coding_DoJos\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Users\Sascha\source\repos\Coding_DoJos\FizzBuzz\obj\Debug\FizzBuzz.pdb

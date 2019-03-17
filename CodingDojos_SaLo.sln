@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList.Tests", "LinkedL
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz.Tests", "FizzBuzz.Tests\FizzBuzz.Tests.csproj", "{FEFEBA47-A9EE-4E03-9739-377615CEF60C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT_13", "ROT-13\ROT_13.csproj", "{0BEA5221-4B4E-4911-9BC0-C2F1CEA7116B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ROT_13.Tests", "ROT-13.Tests\ROT_13.Tests.csproj", "{B052E060-EA5F-4EEE-91B4-9B8AF4879DCE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{FEFEBA47-A9EE-4E03-9739-377615CEF60C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FEFEBA47-A9EE-4E03-9739-377615CEF60C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FEFEBA47-A9EE-4E03-9739-377615CEF60C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BEA5221-4B4E-4911-9BC0-C2F1CEA7116B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BEA5221-4B4E-4911-9BC0-C2F1CEA7116B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BEA5221-4B4E-4911-9BC0-C2F1CEA7116B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BEA5221-4B4E-4911-9BC0-C2F1CEA7116B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B052E060-EA5F-4EEE-91B4-9B8AF4879DCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B052E060-EA5F-4EEE-91B4-9B8AF4879DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B052E060-EA5F-4EEE-91B4-9B8AF4879DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B052E060-EA5F-4EEE-91B4-9B8AF4879DCE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

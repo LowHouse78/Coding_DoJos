@@ -1,5 +1,5 @@
-﻿using LinkedList.Kata;
-using NUnit.Framework;
+﻿using NUnit.Framework;
+using LinkedList.Kata;
 using System.Linq;
 
 namespace LinkedList.Tests
